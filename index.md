@@ -5,6 +5,12 @@
 <br>Phone: 0949414141
 <br>Email: maydavietan@gmail.com
 
+<br><a href="https://www.metal-archives.com/users/daychuyenlocnuoc">https://www.metal-archives.com/users/daychuyenlocnuoc</a>
+<br><a href="https://myspace.com/daychuyenlocnuoc">https://myspace.com/daychuyenlocnuoc</a>
+<br><a href="http://qooh.me/locnuocvietan">http://qooh.me/locnuocvietan</a>
+<br><a href="https://daychuyenlocnuoc.jimdosite.com/">https://daychuyenlocnuoc.jimdosite.com/</a>
+<br><a href="https://daychuyenlocnuoc.hpage.com/">https://daychuyenlocnuoc.hpage.com/</a>
+
 <br><br>Dây chuyền lọc nước tinh khiết đóng bình 20l là không nhiều. Tuy nhiên mức lợi nhuận mà ngành sản xuất nước uống tinh khiết này mang lại hết sức là cao. Đây là lý do vì sao ngày nay có các đơn vị, tổ chức “đổ xô” đầu tư dây chuyền lọc nước tinh khiết. Các bạn hãy theo dõi bài viết dưới đây của Việt An để tìm hiểu thêm nhé!
 
 <br><br>1. Đôi nét về dây chuyền lọc nước tinh khiết
@@ -41,46 +47,4 @@
 <br>Bước 4: Nhân viên kỹ thuật tiến hành lắp đặt rồi thi công.
 
 <br>Bước 5: Kiểm tra và đánh giá nguồn nước thành phẩm sau khi lắp đặt.
-
-<br><br><!-- start sw-rss-feed code --> 
-<script type="text/javascript"> 
-<!-- 
-rssfeed_url = new Array(); 
-rssfeed_url[0]="https://flipboard.com/@locnuocvietan/d%C3%A2y-chuy%E1%BB%81n-l%E1%BB%8Dc-n%C6%B0%E1%BB%9Bc-tinh-khi%E1%BA%BFt-vi%E1%BB%87t-an-jt4obaa2z.rss";  
-rssfeed_frame_width="600"; 
-rssfeed_frame_height="900"; 
-rssfeed_scroll="off"; 
-rssfeed_scroll_step="6"; 
-rssfeed_scroll_bar="off"; 
-rssfeed_target="_blank"; 
-rssfeed_font_size="12"; 
-rssfeed_font_face=""; 
-rssfeed_border="on"; 
-rssfeed_css_url=""; 
-rssfeed_title="on"; 
-rssfeed_title_name=""; 
-rssfeed_title_bgcolor="#3366ff"; 
-rssfeed_title_color="#fff"; 
-rssfeed_title_bgimage=""; 
-rssfeed_footer="off"; 
-rssfeed_footer_name="rss feed"; 
-rssfeed_footer_bgcolor="#fff"; 
-rssfeed_footer_color="#333"; 
-rssfeed_footer_bgimage=""; 
-rssfeed_item_title_length="50"; 
-rssfeed_item_title_color="#666"; 
-rssfeed_item_bgcolor="#fff"; 
-rssfeed_item_bgimage=""; 
-rssfeed_item_border_bottom="on"; 
-rssfeed_item_source_icon="off"; 
-rssfeed_item_date="off"; 
-rssfeed_item_description="on"; 
-rssfeed_item_description_length="120"; 
-rssfeed_item_description_color="#666"; 
-rssfeed_item_description_link_color="#333"; 
-rssfeed_item_description_tag="off"; 
-rssfeed_no_items="0"; 
-rssfeed_cache = "67eb112807b9ed356cfa2868a559637d"; 
-//--> 
-</script>
 
